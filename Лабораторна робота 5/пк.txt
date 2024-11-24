@@ -1,0 +1,3 @@
+ip : 13.60.5.212
+
+password: .m$CxwgfR3dfY2Gqd$%u3&vXdlhLqOtv
